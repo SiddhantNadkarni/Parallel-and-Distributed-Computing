@@ -9,13 +9,13 @@
 
 ---
 ```
-## HW1
----
-#### Question 1 - Matrix Multiplications Comparisons
-##### Contains Comparision of Naive Matrix Multiplication vs. Block Matrix Multiplication in terms of their execution time (in ns) and performance (in FLOPS).
-***
-#### Question 2 - K-Means Algorithm (C++ Implementation)
-##### Implemented the K-Means clustering algorithm to cluster pixels of a grayscale image into 4 clusters.
+HW1
+
+Question 1 - Matrix Multiplications Comparisons
+Contains Comparision of Naive Matrix Multiplication vs. Block Matrix Multiplication in terms of their execution time (in ns) and performance (in FLOPS).
+
+Question 2 - K-Means Algorithm (C++ Implementation)
+Implemented the K-Means clustering algorithm to cluster pixels of a grayscale image into 4 clusters.
 ```
 Input Image:
 ![input](https://user-images.githubusercontent.com/19183728/64072012-f231d680-cc3b-11e9-95b1-cc51c30955af.jpg)
