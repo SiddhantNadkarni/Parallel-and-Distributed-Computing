@@ -8,6 +8,7 @@
 ##### All Homeworks are done in C++11, compiler used: g++ (latest version)
 
 ---
+```
 ## HW1
 ---
 #### Question 1 - Matrix Multiplications Comparisons
@@ -20,5 +21,5 @@ Input Image:
 
 Output Image:
 ![output](https://user-images.githubusercontent.com/19183728/64072015-fc53d500-cc3b-11e9-9df5-ad5519309305.jpg)
-
+```
 
