@@ -24,9 +24,10 @@ Output Image:
 ![output](https://user-images.githubusercontent.com/19183728/64072015-fc53d500-cc3b-11e9-9df5-ad5519309305.jpg)
  -->
 
-# Project Title
+# Parallel and Distributed Computing 
 
-One Paragraph of project description goes here
+[Course Website](https://sites.usc.edu/prasanna/teaching/fall2019/ee451/)
+This repositary contains programming assignments completed as a part of the course EE 451 - Parallel and Distributed computing under Prof. Viktor Prasanna in Fall 2019.
 
 ## Getting Started
 
