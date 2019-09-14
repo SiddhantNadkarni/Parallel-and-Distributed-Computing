@@ -27,6 +27,7 @@ Output Image:
 # Parallel and Distributed Computing 
 
 [Course Website](https://sites.usc.edu/prasanna/teaching/fall2019/ee451/)
+---
 This repositary contains programming assignments completed as a part of the course EE 451 - Parallel and Distributed computing under Prof. Viktor Prasanna in Fall 2019.
 
 ## Getting Started
