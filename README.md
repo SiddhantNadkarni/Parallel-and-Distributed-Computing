@@ -28,7 +28,7 @@ Output Image:
 
 [Course Website](https://sites.usc.edu/prasanna/teaching/fall2019/ee451/)
 ---
-This repositary contains programming assignments completed as a part of the course EE 451 - Parallel and Distributed computing under Prof. Viktor Prasanna in Fall 2019.
+This repositary contains programming assignments completed as a part of the course EE 451 - Parallel and Distributed computing under Prof. Viktor Prasanna in Fall 2019, USC.
 
 ## Getting Started
 
@@ -38,47 +38,25 @@ This repositary contains programming assignments completed as a part of the cour
 
 All Homeworks are written in C++11, compiler used: g++ (latest version)
 
-```
-Give examples
-```
 
-### Installing
+### Building
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+Git clone the repositary and run the makefile.
 
 ```
-Give the example
+git clone https://github.com/SiddhantNadkarni/Parallel-and-Distributed-Computing.git
+make
 ```
 
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
 ```
-Give an example
+./p1a
+./p1b <block_Size>
+./p2
 ```
 
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 
 
