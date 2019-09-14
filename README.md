@@ -33,16 +33,8 @@ This repositary contains programming assignments completed as a part of the cour
 ## Getting Started
 
 [HOMEWORK #1](https://github.com/SiddhantNadkarni/Parallel-and-Distributed-Computing/blob/master/EE%20451%20F%202019%20PHW%201.pdf) <br/>
-
-Q1a - Naive Matrix Multplication <br/>
-Q1b - Block size Matrix Multplication <br/>
-Q2 - K Means Clusters of an Input Image <br/>
-
-Input Image: <br/>
-![input](https://user-images.githubusercontent.com/19183728/64072012-f231d680-cc3b-11e9-95b1-cc51c30955af.jpg) <br/>
-
-Output Image: <br/>
-![output](https://user-images.githubusercontent.com/19183728/64072015-fc53d500-cc3b-11e9-9df5-ad5519309305.jpg) <br/>
+Comparision of Matrix Multiplications type (Naive vs Block) in terms of time taken (s) and performance (MFLOPs)
+[Report on Homeworks](https://github.com/SiddhantNadkarni/Parallel-and-Distributed-Computing/blob/master/Reports/report.pdf)
 
 ### Prerequisites
 
