@@ -34,8 +34,8 @@ This repositary contains programming assignments completed as a part of the cour
 
 [HOMEWORK #1](https://github.com/SiddhantNadkarni/Parallel-and-Distributed-Computing/blob/master/EE%20451%20F%202019%20PHW%201.pdf) <br/>
 Q1 a,b - Comparision of Matrix Multiplications type (Naive vs Block) in terms of time taken (s) and performance (MFLOPs) <br/>
-![Fig1](https://github.com/SiddhantNadkarni/Parallel-and-Distributed-Computing/blob/master/Plots/Figure_1.png)
-![Fig2](https://github.com/SiddhantNadkarni/Parallel-and-Distributed-Computing/blob/master/Plots/Figure_2.png)
+![Fig1](https://github.com/SiddhantNadkarni/Parallel-and-Distributed-Computing/blob/master/Plots/Figure_1.png) <br/>
+![Fig2](https://github.com/SiddhantNadkarni/Parallel-and-Distributed-Computing/blob/master/Plots/Figure_2.png) <br/>
 [Report](https://github.com/SiddhantNadkarni/Parallel-and-Distributed-Computing/blob/master/Reports/report.pdf) <br/>
 
 ### Prerequisites
