@@ -4,7 +4,7 @@
 
 [Course Website](https://sites.usc.edu/prasanna/teaching/fall2019/ee451/)
 ---
-This repositary contains programming assignments completed as a part of the course EE 451 - Parallel and Distributed computing under Prof. Viktor Prasanna in Fall 2019, USC.
+This repositary contains programming assignments completed as a part of the course EE 451 - Parallel and Distributed computing under Prof. [Viktor Prasanna](https://sites.usc.edu/prasanna/) in Fall 2019, USC.
 
 ## Getting Started
 
@@ -59,6 +59,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
+* [Victor K. Prasanna](https://sites.usc.edu/prasanna/)
 * [Introduction to Parallel Computing](http://srmcse.weebly.com/uploads/8/9/0/9/8909020/introduction_to_parallel_computing_second_edition-ananth_grama..pdf)
 
 
