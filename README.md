@@ -38,6 +38,12 @@ Q1a - Naive Matrix Multplication <br/>
 Q1b - Block size Matrix Multplication <br/>
 Q2 - K Means Clusters of an Input Image <br/>
 
+Input Image: <br/2>
+![input](https://user-images.githubusercontent.com/19183728/64072012-f231d680-cc3b-11e9-95b1-cc51c30955af.jpg) <br/2>
+
+Output Image: <br/2>
+![output](https://user-images.githubusercontent.com/19183728/64072015-fc53d500-cc3b-11e9-9df5-ad5519309305.jpg) <br/2>
+
 ### Prerequisites
 
 All Homeworks are written in C++11, compiler used: g++ (latest version) <br/>
