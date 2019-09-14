@@ -32,7 +32,8 @@ This repositary contains programming assignments completed as a part of the cour
 
 ## Getting Started
 
-Homework 1 
+### [Homework 1/(https://github.com/SiddhantNadkarni/Parallel-and-Distributed-Computing/blob/master/EE%20451%20F%202019%20PHW%201.pdf) <br/>
+
 Q1a - Naive Matrix Multplication <br/>
 Q1b - Block size Matrix Multplication <br/>
 Q2 - K Means Clusters of an Input Image <br/>
@@ -40,6 +41,7 @@ Q2 - K Means Clusters of an Input Image <br/>
 ### Prerequisites
 
 All Homeworks are written in C++11, compiler used: g++ (latest version)
+[Boost](https://www.boost.org/doc/libs/1_62_0/more/getting_started/windows.html) C++ library version 1.70.0
 
 
 ### Building
