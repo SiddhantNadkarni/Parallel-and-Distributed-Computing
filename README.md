@@ -33,9 +33,9 @@ This repositary contains programming assignments completed as a part of the cour
 ## Getting Started
 
 Homework 1 
-Q1a - Naive Matrix Multplication
-Q1b - Block size Matrix Multplication
-Q2 - K Means Clusters of an Input Image
+Q1a - Naive Matrix Multplication <br/>
+Q1b - Block size Matrix Multplication <br/>
+Q2 - K Means Clusters of an Input Image <br/>
 
 ### Prerequisites
 
@@ -71,6 +71,6 @@ make
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 
