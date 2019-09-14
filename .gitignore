@@ -1,9 +1,11 @@
 *
 !Makefile
-!Input
-!Reports
+!Input/*
+!Reports/*
 !Plots
+!Plots/*
 !src
+!src/*
 !.gitignore
 !README.md
 !EE 451 F 2019 PHW 1.pdf
