@@ -32,7 +32,7 @@ This repositary contains programming assignments completed as a part of the cour
 
 ## Getting Started
 
-### [Homework 1/(https://github.com/SiddhantNadkarni/Parallel-and-Distributed-Computing/blob/master/EE%20451%20F%202019%20PHW%201.pdf) <br/>
+[Homework 1](https://github.com/SiddhantNadkarni/Parallel-and-Distributed-Computing/blob/master/EE%20451%20F%202019%20PHW%201.pdf) <br/>
 
 Q1a - Naive Matrix Multplication <br/>
 Q1b - Block size Matrix Multplication <br/>
