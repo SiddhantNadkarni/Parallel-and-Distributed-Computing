@@ -1,6 +1,8 @@
 *
 !Makefile
+!Input
 !Input/*
+!Reports
 !Reports/*
 !Plots
 !Plots/*
