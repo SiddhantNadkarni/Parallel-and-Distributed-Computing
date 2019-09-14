@@ -11,7 +11,7 @@
 #define h  800 
 #define w  800
 
-#define input_file  "input.raw"
+#define input_file  "Inputs/input.raw"
 #define output_file "output.raw"
 
 unsigned char* readImage(const char *image, int height, int width, int bpp)
