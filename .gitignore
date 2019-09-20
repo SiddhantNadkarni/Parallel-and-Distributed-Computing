@@ -8,7 +8,10 @@
 !Plots/*
 !src
 !src/*
+!src/HW_1
+!src/HW_1/*
 !.gitignore
 !README.md
 !EE 451 F 2019 PHW 1.pdf
-
+!Homework_PDFs
+!Homework_PDFS/*
