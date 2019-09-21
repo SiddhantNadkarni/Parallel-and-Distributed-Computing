@@ -1,4 +1,4 @@
-all: p1a p1b p2
+all: p1a p1b p2 prob21
 
 p1a: p1a.o
 	g++ p1a.o -o p1a
@@ -9,15 +9,20 @@ p1b: p1b.o
 p2: p2.o
 	g++ p2.o -o p2
 
-p1a.o: src/p1a.cpp
-	g++ -c src/p1a.cpp
+prob21: prob21.o
+	g++ prob21.o -o prob21
 
-p1b.o: src/p1b.cpp
-	g++ -c src/p1b.cpp
+p1a.o: src/HW_1/p1a.cpp
+	g++ -c src/HW_1/p1a.cpp
 
-p2.o: src/p2.cpp
-	g++ -c src/p2.cpp
+p1b.o: src/HW_1/p1b.cpp
+	g++ -c src/HW_1/p1b.cpp
 
+p2.o: src/HW_1/p2.cpp
+	g++ -c src/HW_1/p2.cpp
+
+prob21.o: src/HW_2/prob21.cpp
+	g++ -c src/HW_2/prob21.cpp
 
 clean: 
-	rm *.o p1a p1b p2 output.raw
+	rm *.o p1a p1b p2 prob21 output.raw
