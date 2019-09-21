@@ -24,6 +24,28 @@ This repositary contains programming assignments completed as a part of the cour
 All Homeworks are written in C++11, compiler used: g++ (latest version) <br/>
 [Boost](https://www.boost.org/doc/libs/1_62_0/more/getting_started/windows.html) C++ library version 1.70.0
 
+### Directory Layout
+
+```bash
+├── Homework_PDFs
+│   ├── EE 451 F 2019 PHW 1.pdf
+│   └── EE_451_F_2019_HW_2.pdf
+├── Input
+│   └── input.raw
+├── Plots
+│   ├── Figure_1.png
+│   ├── Figure_2.png   
+│   └── plotGraph.py
+├── Reports
+│   ├── report.pdf  
+│   └── report.docx
+├── src
+│   ├── HW_1  
+│   └── HW_2
+├── License
+├── Makefile
+└── README.md
+```
 
 ### Building
 
