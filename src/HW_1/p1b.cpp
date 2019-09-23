@@ -73,10 +73,7 @@ int main(int argc, char const *argv[])
 
 
 	if( clock_gettime(CLOCK_REALTIME, &start) == -1) { perror("clock gettime");}
-	
-	// Your code goes here //
-	// Matrix C = Matrix A * Matrix B //	
-	//*******************************//
+
     for(int bi=0; bi<n; bi+=b)
         for(int bj=0; bj<n; bj+=b)
             for(int bk=0; bk<n; bk+=b)
@@ -84,13 +81,11 @@ int main(int argc, char const *argv[])
                     for(int j=0; j<b; j++)
                         for(int k=0; k<b; k++)
                             C[bi+i][bj+j] += A[bi+i][bk+k]*B[bk+k][bj+j];
-	//*******************************//
+
 	
 	if( clock_gettime( CLOCK_REALTIME, &stop) == -1 ) { perror("clock gettime");}		
 	time = (stop.tv_sec - start.tv_sec)+ (double)(stop.tv_nsec - start.tv_nsec)/1e9;
 	
-	// printf("Execution time = %f sec,\n%lf MFLOPs per sec\n", time, 1/time/1e6*2*n*n*n);		
-	// printf("C[100][100]=%f\n", C[100][100]);
 
 	std::cout << "Number of FLOPs = " << 2*n*n*n << std::endl;
 	std::cout << "Execution time = " << time << std::endl;
