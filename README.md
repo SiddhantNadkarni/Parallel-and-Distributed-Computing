@@ -8,8 +8,12 @@ This repositary contains programming assignments completed as a part of the cour
 
 ## Getting Started
 
-[**HOMEWORK #1**](https://github.com/SiddhantNadkarni/Parallel-and-Distributed-Computing/blob/master/EE%20451%20F%202019%20PHW%201.pdf) <br/>
-[**Report on HOMEWORK #1**](https://github.com/SiddhantNadkarni/Parallel-and-Distributed-Computing/blob/master/Reports/report.pdf) <br/>
+Implementation of different programming models - PRAM, Shared memory, Message Passing for different algorithms 
+
+
+
+[**Programming Homework #1**](https://github.com/SiddhantNadkarni/Parallel-and-Distributed-Computing/blob/master/EE%20451%20F%202019%20PHW%201.pdf) <br/>
+[**Report on Programming Homework #1**](https://github.com/SiddhantNadkarni/Parallel-and-Distributed-Computing/blob/master/Reports/report.pdf) <br/>
 
 * Q1 a,b - Comparision of Matrix Multiplications type (Naive vs Block) in terms of time taken (s) and performance (MFLOPs) <br/>
 ![Fig1](https://github.com/SiddhantNadkarni/Parallel-and-Distributed-Computing/blob/master/Plots/Figure_1.png) <br/>
