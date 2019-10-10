@@ -12,8 +12,8 @@ Implementation of different programming models - PRAM, Shared memory, Message Pa
 
 * **PHW1 - Basic Naive Matrix, BlocK Matrix  and KMeans Clustering Implementation**
 
-[**Programming Homework #1**](https://github.com/SiddhantNadkarni/Parallel-and-Distributed-Computing/blob/master/Homework_PDFs/EE%20451%20F%202019%20PHW%201.pdf) <br/>
-[**Report on Programming Homework #1**](https://github.com/SiddhantNadkarni/Parallel-and-Distributed-Computing/blob/master/Reports/PHW_1/report.pdf) <br/>
+[Programming Homework #1](https://github.com/SiddhantNadkarni/Parallel-and-Distributed-Computing/blob/master/Homework_PDFs/EE%20451%20F%202019%20PHW%201.pdf) <br/>
+[Report on Programming Homework #1](https://github.com/SiddhantNadkarni/Parallel-and-Distributed-Computing/blob/master/Reports/PHW_1/report.pdf) <br/>
 
 * Q1 a,b - Comparision of Matrix Multiplications type (Naive vs Block) in terms of time taken (s) and performance (MFLOPs) <br/>
 ![Fig1](https://github.com/SiddhantNadkarni/Parallel-and-Distributed-Computing/blob/master/Plots/PHW_1/Figure_1.png) <br/>
