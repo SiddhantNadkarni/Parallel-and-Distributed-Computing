@@ -16,7 +16,7 @@ Implementation of different programming models - PRAM, Shared memory, Message Pa
 [**Report on Programming Homework #1**](https://github.com/SiddhantNadkarni/Parallel-and-Distributed-Computing/blob/master/Reports/PHW_1/report.pdf) <br/>
 
 * Q1 a,b - Comparision of Matrix Multiplications type (Naive vs Block) in terms of time taken (s) and performance (MFLOPs) <br/>
-![Fig1](https://github.com/SiddhantNadkarni/Parallel-and-Distributed-Computing/blob/master/Plots/Figure_1.png) <br/>
+![Fig1](https://github.com/SiddhantNadkarni/Parallel-and-Distributed-Computing/blob/master/Plots/PHW_1/Figure_1.png) <br/>
 ![Fig2](https://github.com/SiddhantNadkarni/Parallel-and-Distributed-Computing/blob/master/Plots/Figure_2.png) <br/>
 
 * Q2 - K Means Clustering of grayscale Intensities in an Image <br/>
