@@ -14,6 +14,7 @@ Implementation of different programming models - PRAM, Shared memory, Message Pa
 
 Brief Overview:
 This homework contains non-parallelized implementations of Naive Matrix Multiplication, Block Matrix Multiplication and K-Means clustering of grayscale intensities in an Image.
+
 Problem Statement: 
 [Programming Homework #1](https://github.com/SiddhantNadkarni/Parallel-and-Distributed-Computing/blob/master/Homework_PDFs/EE%20451%20F%202019%20PHW%201.pdf) <br/>
 Report:
