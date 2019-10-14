@@ -23,7 +23,7 @@ Report:
 * Q1 a,b - Comparision of Matrix Multiplications type (Naive vs Block) in terms of time taken (s) and performance (MFLOPs) <br/>
 ![Fig1](https://github.com/SiddhantNadkarni/Parallel-and-Distributed-Computing/blob/master/Plots/PHW_1/Figure_1.png) <br/>
 ![Fig2](https://github.com/SiddhantNadkarni/Parallel-and-Distributed-Computing/blob/master/Plots/PHW_1/Figure_2.png) <br/>
-
+***
 * Q2 - K Means Clustering of grayscale Intensities in an Image <br/>
 ![Screen Shot 2019-09-13 at 10 30 41 PM](https://user-images.githubusercontent.com/19183728/64903892-2bc00400-d676-11e9-8787-1259c5a2f736.png)<br/>
 
