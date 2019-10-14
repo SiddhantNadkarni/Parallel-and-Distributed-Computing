@@ -8,7 +8,7 @@ This repositary contains programming assignments completed as a part of the cour
 
 ## Getting Started
 
-Implementation of different programming models - PRAM, Shared memory, Message Passing for different algorithms 
+### Implementation of different programming models - PRAM, Shared memory, Message Passing for different algorithms 
 
 * **PHW1 - Basic Naive Matrix, BlocK Matrix  and KMeans Clustering Implementation**
 
