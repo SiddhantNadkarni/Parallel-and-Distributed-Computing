@@ -5,10 +5,10 @@
 [Course Website](https://sites.usc.edu/prasanna/teaching/fall2019/ee451/)
 ---
 This repositary contains programming assignments completed as a part of the course EE 451 - Parallel and Distributed computing under Prof. [Viktor Prasanna](https://sites.usc.edu/prasanna/) in Fall 2019, USC.
-
+---
 ## Getting Started
 
-### Implementation of different programming models - PRAM, Shared memory, Message Passing for different algorithms 
+> Implementation of different programming models - PRAM, Shared memory, Message Passing for different algorithms 
 
 * **PHW1 - Basic Naive Matrix, BlocK Matrix  and KMeans Clustering Implementation**
 
