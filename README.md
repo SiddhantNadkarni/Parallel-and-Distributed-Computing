@@ -30,6 +30,22 @@ Report:
 ***
 * **PHW2 - Parallelized Naive Matrix and Parallelized K-Means Clustering Implementation [PThread Shared Programming Models]**
 
+Brief Overview: 
+This homework contains parallelized implementation of Naive Matrix Multiplication and parallelized K-Means Clustering implemented in PHW1. 
+Model used: Shared programming model. Library: Posix Threads.
+
+Problem Statement: 
+[Programming Homework #2](https://github.com/SiddhantNadkarni/Parallel-and-Distributed-Computing/blob/master/Homework_PDFs/EE%20451%20F%202019%20PHW%202.pdf) <br/>
+Report:
+[Report on Programming Homework #2](https://github.com/SiddhantNadkarni/Parallel-and-Distributed-Computing/blob/master/Reports/PHW_2/report.pdf) <br/>
+
+
+* Q1 Naive Matrix Parallelization <br/>
+![Fig1](https://github.com/SiddhantNadkarni/Parallel-and-Distributed-Computing/blob/master/Plots/PHW_2/Figure_1.png)<br/>
+
+* Q1 Parallelized K-Means Clustering of grayscale Intensities in an Image<br/>
+![Screen Shot 2019-10-14 at 12 12 54 PM](https://user-images.githubusercontent.com/19183728/66776826-2ffd5e00-ee7c-11e9-8ffb-523a80e2975a.png)<br/>
+
 ### Prerequisites
 
 All Homeworks are written in C++11, compiler used: g++ (latest version) <br/>
