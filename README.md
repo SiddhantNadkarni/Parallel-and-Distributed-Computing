@@ -46,6 +46,15 @@ Report:
 * Q1 Parallelized K-Means Clustering of grayscale Intensities in an Image<br/>
 ![Screen Shot 2019-10-14 at 12 12 54 PM](https://user-images.githubusercontent.com/19183728/66776826-2ffd5e00-ee7c-11e9-8ffb-523a80e2975a.png)<br/>
 
+
+Details will be added.
+
+* **PHW3 - [OpenMP]**
+
+* **PHW4 - [Message Passing Interface (MPI)]**
+
+
+
 ### Prerequisites
 
 All Homeworks are written in C++11, compiler used: g++ (latest version) <br/>
